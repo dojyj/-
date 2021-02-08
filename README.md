@@ -1,5 +1,5 @@
 # Algorithm_Study
 
-programmers 3단계 이상
-
-백준 기본문제 제외 전부 다
+- Baekjoon Online Judge <https://www.acmicpc.net/>
+- Programmers <https://programmers.co.kr/>
+- Algospot : <https://www.algospot.com/>
